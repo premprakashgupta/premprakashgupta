@@ -1,31 +1,89 @@
-<h1 align="center">Hi 👋, I'm prem prakash gupta</h1>
-<h3 align="center">Web-Developer | App-Developer | Full-Stack(Mern) | Flutter</h3>
+<h1 align="center">Hi 👋, I'm Prem Prakash Gupta</h1>
+<h3 align="center">Full-Stack MERN Developer | Founder @ Vyapaaros | Building products that ship</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=premprakashgupta&label=Profile%20views&color=0e75b6&style=flat" alt="premprakashgupta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premprakashgupta" alt="premprakashgupta" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [http://my-portfolio-77cbc.web.app/](http://my-portfolio-77cbc.web.app/)
-
-- 💬 Ask me about **Reactjs,NodJs,flutter**
-
-- 📫 How to reach me **prem.com0011@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/premnce04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="premnce04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/premprakashgupta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="premprakashgupta-" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@htmlgyan867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@htmlgyan867" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/premcom0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="premcom0011" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=premprakashgupta&label=Profile%20views&color=0e75b6&style=flat" alt="premprakashgupta" />
+  <a href="https://linkedin.com/in/premprakashgupta-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:prem.com0011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premprakashgupta&show_icons=true&locale=en&layout=compact" alt="premprakashgupta" /></p>
+### 🧑‍💻 About Me
+- 🚀 Full-Stack Developer (MERN) with hands-on experience across **React, Node.js, Express, MongoDB, TypeScript, Next.js, and Flutter**
+- 🏢 Founder of **[Vyapaaros](https://vyapaaros.in)** — a development agency building web & app products, including own products like **OfferMarket** and **Vyapaaros Bot**
+- 💼 Previously worked at **MittArv Technology, Systellar Technologies, and Thundergits Consultancy**
+- 🌱 Currently exploring **Flutter for cross-platform apps** and **AI-assisted development workflows**
+- 📫 Reach me at **prem.com0011@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premprakashgupta&show_icons=true&locale=en" alt="premprakashgupta" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premprakashgupta&" alt="premprakashgupta" /></p>
+### 🛠️ Featured Work
+
+| Project | Description | Links |
+|---|---|---|
+| **DavaBharti** | Medical/pharmacy ERP platform — **250+ APIs**, serving **3,000+ users** | [Visit](https://davabharti.com) |
+| **Coding Panda** | Coding resources & placement-prep platform for students | [Visit](https://codingpandas.in) |
+| **OfferMarket** | Marketplace/offers platform — own product under Vyapaaros | [Visit](https://offermarket.vyapaaros.in) |
+| **Vyapaaros Bot** | Automation/chatbot product under Vyapaaros | [Visit](https://bot.vyapaaros.in) |
+| **Portfolio** | Live project demos + resume download | [Visit](https://myportfolio-nextjs-roan.vercel.app) |
+
+> Add repo links next to any project above as they're ready to share publicly.
+
+---
+
+### 💡 Case Studies
+
+**Streaming Excel Uploads at Scale**  
+Redesigned a large Excel (.xlsx) upload pipeline handling 100,000+ rows from hundreds of concurrent users. Replaced full in-memory processing with chunked streaming from frontend to backend, immediate per-chunk DB inserts, no unnecessary file storage on the VPS, and real-time progress via Server-Sent Events — cutting memory usage and making multi-GB uploads reliable under load.  
+🔗 [Read the full post](https://www.linkedin.com/posts/premprakashgupta-_backendengineering-nodejs-streaming-activity-7484886363734073344-OkKz)
+
+**Intelligent Order Allocation Engine** (DavaBharti)  
+Designed a radius-based vendor matching system for a medical e-commerce platform: orders broadcast to vendors within 2 km, auto-expanding (4 km → 6 km → 8 km...) up to an admin-configurable max radius, with concurrency-safe order acceptance and automatic fallback to manual allocation if no vendor responds — reducing notification spam and eliminating duplicate assignments.  
+🔗 [Read the full post](https://www.linkedin.com/posts/premprakashgupta-_backendengineering-systemdesign-softwarearchitecture-activity-7484815632971124736-RIqU)
+
+---
+
+### 🧰 Tech Stack
+
+**Languages & Frameworks**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="35" height="35"/>
+
+**Databases & Backend Infra**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/>
+
+**Tools**  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="35" height="35"/>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premprakashgupta&show_icons=true&theme=default&count_private=true" alt="premprakashgupta stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premprakashgupta&layout=compact" alt="top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premprakashgupta" alt="streak stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+Open to **Full-Stack / Backend (React, Node.js, TypeScript)** roles and freelance/agency projects.  
+📩 **prem.com0011@gmail.com** | 🔗 [LinkedIn](https://linkedin.com/in/premprakashgupta-) | 🌐 [Portfolio](https://myportfolio-nextjs-roan.vercel.app)
