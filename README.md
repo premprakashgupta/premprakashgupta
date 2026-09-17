@@ -73,14 +73,12 @@ Designed a radius-based vendor matching system for a medical e-commerce platform
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premprakashgupta&show_icons=true&theme=default&count_private=true" alt="premprakashgupta stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premprakashgupta&layout=compact" alt="top languages" height="165"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premprakashgupta&show_icons=true&locale=en&layout=compact" alt="premprakashgupta" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premprakashgupta" alt="streak stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premprakashgupta&show_icons=true&locale=en" alt="premprakashgupta" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=premprakashgupta&" alt="premprakashgupta" /></p>
+
 
 ---
 
